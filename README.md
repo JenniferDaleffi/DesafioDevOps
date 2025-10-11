@@ -1,4 +1,16 @@
-# Projeto - Cidades ESGInteligentes
+# Atividade DevOps - Compliance Ambiental
+
+## Integrantes 
+
+- Dennis Ferreira da Silva – RM556621 
+
+- Fabrício Gonçalves Riz Pereira - RM557778 
+
+- Geovanna Silva Dias – RM558988 
+
+- Igor Matias Oliveira – RM557696 
+
+- Jennifer Eduarda Vieira Daleffi – RM557137 
 
 ##  Como executar localmente com Docker
 
